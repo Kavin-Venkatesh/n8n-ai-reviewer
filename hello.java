@@ -4,5 +4,11 @@ class hello{
         while( i < 100){
             System.out.print("Hello world" + i);
         }
+
+
+
+        for (int i = 0 ; i <=100 ; i++){
+            System.out.print("Hello world" + i);
+        }
     }
 }

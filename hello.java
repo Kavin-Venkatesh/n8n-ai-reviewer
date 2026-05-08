@@ -3,6 +3,7 @@ class hello{
         int i = 1;
         while( i < 100){
             System.out.print("Hello world" + i);
+            i++;
         }
 
 
